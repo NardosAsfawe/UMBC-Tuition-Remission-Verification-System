@@ -44,3 +44,8 @@ The current process for verifying the Tuition Remission DocuSign form is very ti
 <h5> Process 5: Submit Quarterly Report</h5>
 
 ![](https://github.com/NardosMe/Auditing-System-/blob/master/process_5_diagram.png?raw=true)
+
+<h4>Data Dictionary Definitions </h4> 
+
+![](https://github.com/NardosMe/Auditing-System-/blob/master/Data_Dictionary.png?raw=true)
+
