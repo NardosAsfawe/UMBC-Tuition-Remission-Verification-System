@@ -1,5 +1,4 @@
-# Auditing-System
-<h2>Executive Summary: UMBC Tuition Remission Verification System</h2>
+<h2>UMBC Tuition Remission Verification System</h2>
 
 <h3>Problem Summary</h3>
 
